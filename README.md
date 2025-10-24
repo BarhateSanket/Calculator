@@ -14,7 +14,7 @@ This project performs all basic arithmetic operations and features a clean, dark
 
 > **Dark Theme Calculator UI**
 
-![Calculator Preview[(https://github.com/BarhateSanket/calculator/preview.png)"
+![Calculator Preview](https://github.com/BarhateSanket/Calculator/blob/main/preview.png)
 
 
 
