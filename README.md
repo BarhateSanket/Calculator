@@ -14,7 +14,7 @@ This project performs all basic arithmetic operations and features a clean, dark
 
 > **Dark Theme Calculator UI**
 
-![Calculator Preview](https://github.com/your-username/calculator/blob/main/preview.png)
+![Calculator Preview]("C:\Users\sanke\OneDrive\Pictures\Screenshots\Screenshot (26).png")
 
 *(Replace this image link with a real screenshot of your calculator.)*
 
