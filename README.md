@@ -16,7 +16,7 @@ This project performs all basic arithmetic operations and features a clean, dark
 
 ![Calculator Preview]("C:\Users\sanke\OneDrive\Pictures\Screenshots\Screenshot (26).png")
 
-*(Replace this image link with a real screenshot of your calculator.)*
+
 
 ---
 
