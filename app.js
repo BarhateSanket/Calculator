@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
 
@@ -25,7 +24,6 @@ arr.forEach(button => {
         }
         
     })
-=======
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
 
@@ -52,5 +50,4 @@ arr.forEach(button => {
         }
         
     })
->>>>>>> 7c06f6450f18d89dd2f36434a6bc70fdb36b025d
-})
+        7c06f6450f18d89dd2f36434a6bc70fdb36b025d
